@@ -23,3 +23,5 @@ spec:
               protocol: TCP
             - containerPort: 9090
               protocol: TCP
+       imagePullSecrets:
+          - name: adhis-pull-secret
