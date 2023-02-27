@@ -25,3 +25,4 @@ spec:
 
       imagePullSecrets:
           - name: adhis-pull-secret
+          
