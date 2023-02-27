@@ -16,7 +16,7 @@ spec:
     spec:
       
       containers:
-        - image: quay.io/sumitbiswal/jenkins-agent-maven
+        - image: quay.io/adhis/java
 
           name: sonarqube-maven-example
           ports:
