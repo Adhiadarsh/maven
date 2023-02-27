@@ -8,4 +8,4 @@ kind: Kustomization
 images:
 - name: quay.io/adhis/java
   newName: quay.io/adhis/java
-  newTag: e1201ae237aef150447096096bc432781796be10
+  newTag: d6bd254146d10ca17aee62ee2d28e06ca5615dd9
