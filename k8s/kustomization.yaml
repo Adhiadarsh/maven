@@ -9,6 +9,9 @@ images:
 - name: quay.io/adhis/java
   newName: quay.io/adhis/java
   newTag: ba7e3c7c0d179aaa56d7aac624c77949738b78f9
+- name: quay.io/sumitbiswal/jenkins-agent-maven
+  newName: quay.io/sumitbiswal/jenkins-agent-maven
+  newTag: b25498dcdaaee10ac08bd45c0979488302610412
 - name: quay.io/sumitbiswal/maven
   newName: quay.io/sumitbiswal/maven
   newTag: bff8989d183bf513ac7f84b6f936ef89b435e86b
