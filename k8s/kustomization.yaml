@@ -6,12 +6,6 @@ resources:
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
-- name: quay.io/adhis/java
-  newName: quay.io/adhis/java
-  newTag: fcd4aab11d596192aee602cef47482f645651e89
-- name: quay.io/sumitbiswal/jenkins-agent-maven
-  newName: quay.io/sumitbiswal/jenkins-agent-maven
-  newTag: f3c0847b0a13fc288160d78abacd5f5974737a96
-- name: quay.io/sumitbiswal/maven
-  newName: quay.io/sumitbiswal/maven
-  newTag: bff8989d183bf513ac7f84b6f936ef89b435e86b
+- name: quay.io/adhis/argocd
+  newName: quay.io/adhis/argocd
+  newTag: 
