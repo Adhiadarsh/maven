@@ -8,4 +8,6 @@ kind: Kustomization
 images:
 - name: quay.io/adhis/argocd
   newName: quay.io/adhis/argocd
-  newTag: 
+- name: quay.io/adhis/java
+  newName: quay.io/adhis/java
+  newTag: 14656aba4986b3329b1d1a4ad0c001ad68192a0e
