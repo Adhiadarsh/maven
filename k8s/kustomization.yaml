@@ -8,5 +8,6 @@ kind: Kustomization
 images:
 - name: quay.io/adhis/argo-05
   newName: quay.io/adhis/argo-05
-  newTag: 
-
+- name: quay.io/adhis/java
+  newName: quay.io/adhis/java-maven
+  newTag: 341a1b877862c82d4df37d48e178d6db93c882d3
