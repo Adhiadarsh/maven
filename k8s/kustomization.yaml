@@ -8,6 +8,6 @@ kind: Kustomization
 images:
 - name: quay.io/adhis/java
   newName: quay.io/adhis/java-maven
-  newTag: 3b39e63867d87cec5a81f124fba64718aca85fd3
+  newTag: 0cdefce807ff18f6d385ae3a3006755aa98fba64
 - name: quay.io/adhis/java-maven
   newName: quay.io/adhis/java-maven
