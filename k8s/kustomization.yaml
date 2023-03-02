@@ -10,4 +10,4 @@ images:
   newName: quay.io/adhis/argocd
 - name: quay.io/adhis/java
   newName: quay.io/adhis/java
-  newTag: 14656aba4986b3329b1d1a4ad0c001ad68192a0e
+  newTag: ab4cdb0172935498beed5112cf7f4ae55fc96ba4
