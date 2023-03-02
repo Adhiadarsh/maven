@@ -6,6 +6,8 @@ resources:
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
+- name: quay.io/adhis/java
+  newName: quay.io/adhis/java-maven
+  newTag: 3b39e63867d87cec5a81f124fba64718aca85fd3
 - name: quay.io/adhis/java-maven
   newName: quay.io/adhis/java-maven
-  newTag: 
