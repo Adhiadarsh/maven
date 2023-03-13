@@ -5,6 +5,6 @@ resources:
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
-- digest: sha256:d8c0218c41c1f250990f7a5f945764ca4e5798e5f435ba05217227571c488822
+- digest: sha256:997a106e46bdf52a624cb893e9cae51b038db245d3c6a630ace5cf61c9255f42
   name: quay.io/adhis/argocd
   newName: quay.io/adhis/argocd
