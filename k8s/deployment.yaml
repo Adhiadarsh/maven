@@ -16,7 +16,7 @@ spec:
     spec:
       
       containers:
-        - image: quay.io/adhis/argocd:latest
+        - image: quay.io/adhis/argocd
 
           name: sonarqube-maven-example
           ports:
